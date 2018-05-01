@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205889782706",
+    "firebase_url": "https://ai-games-82761.firebaseio.com",
+    "project_id": "ai-games-82761",
+    "storage_bucket": "ai-games-82761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205889782706:android:7371321605b248e3",
+        "android_client_info": {
+          "package_name": "net.xavloose.aigames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205889782706-bvu9ar4ll9pik85iii8kde0lqi98oddc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.xavloose.aigames",
+            "certificate_hash": "98823ff1597da51f7dfdefd1687eeeccfa079b52"
+          }
+        },
+        {
+          "client_id": "205889782706-4vjo1q8hbhp5bv9nmfhqg4nusu2tp6la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4dDQZVmm0s6zAzHucg-RHWxtkvGShhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205889782706-4vjo1q8hbhp5bv9nmfhqg4nusu2tp6la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
